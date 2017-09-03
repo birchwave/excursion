@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: black;
+  text-align: center
+}
+
+
+h1 {
+  color: White;
+  font-size: 50px;
+}
+
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.footnote {
+  text-align: right;
+}
