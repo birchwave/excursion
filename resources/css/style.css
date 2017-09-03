@@ -1,10 +1,12 @@
+/* Codecademy - Build Websites from Scratch - Project: Excursion
+/* Author: birchwave@gmail.com, Thomas Reichler */
+
 body {
   font-family: Verdana, Geneva, sans-serif;
-  color: white;
+  color: white; /* default color on black background */
   background-color: black;
   text-align: center
 }
-
 
 h1 {
   font-size: 50px;
@@ -13,7 +15,7 @@ h1 {
 
 h2 {
   font-size: 42px;
-  font-weight: normal;
+  font-weight: 300;
 }
 
 
